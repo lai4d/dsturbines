@@ -1,0 +1,84 @@
+BODY
+{
+FONT-SIZE: 14px;
+FONT-FAMILY: Arial;
+TEXT-ALIGN: justify;
+}
+TD
+{
+FONT-SIZE: 14px;
+FONT-FAMILY: Arial;
+TEXT-ALIGN: justify;
+}
+TH
+{
+FONT-SIZE: 14px;
+font-weight: bold;
+FONT-FAMILY: Arial;
+TEXT-ALIGN: center;
+background-color: rgb(240, 240, 240);
+}
+A:link
+{
+TEXT-DECORATION: none;
+}
+A:hover
+{
+color: rgb(51, 204, 255);
+TEXT-DECORATION: none;
+}
+A:visited
+{
+TEXT-DECORATION: none;
+}
+.indent
+{
+MARGIN-LEFT: 25px;
+}
+.vector
+{
+BORDER-RIGHT: 1px;
+BORDER-TOP: 1px solid;
+BORDER-LEFT: 1px;
+BORDER-BOTTOM: 1px
+}
+.sourcecode
+{
+background-color: rgb(240, 240, 240);
+font-family: courier;
+}
+.sect
+{
+background-image:url(hbg.png);
+background-repeat:repeat-x
+}
+H2
+{
+font-weight: normal;
+font-size: 24px;
+}
+H3
+{
+font-weight: bold;
+font-size: 15px;
+color: rgb(0, 0, 0);
+}
+H4
+{
+font-weight: bold;
+font-size: 15px;
+color: rgb(0, 0, 0);
+}
+H5
+{
+font-weight: bold;
+font-size: 15px;
+color: rgb(0, 0, 0);
+}
+H6
+{
+font-weight: bold;
+font-size: 15px;
+color: rgb(0, 0, 0);
+}
+
